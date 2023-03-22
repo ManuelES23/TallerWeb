@@ -1,0 +1,19 @@
+{
+    "name": "triton-500/bienesraices",
+    "description": "Creando un proyexto con POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Triton500\\Bienesraices\\": "src/",
+            "App\\": "./clases"
+        }
+    },
+    "authors": [
+        {
+            "name": "ManuelES23",
+            "email": "j.mansolesc.223@gmail.com"
+        }
+    ],
+    "require": {}
+    
+}
